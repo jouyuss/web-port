@@ -1,3 +1,2 @@
-[submodule "fnaf"]
-	path = fnaf
-	url = https://github.com/genizy/fnaf
+git add .gitmodules
+git commit -m "Removed submodule fnaf"
